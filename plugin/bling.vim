@@ -2,7 +2,7 @@ if !exists('g:bling_no_expr') | let g:bling_no_expr = 0   | en
 if !exists('g:bling_no_map')  | let g:bling_no_map = 0    | en
 
 if !exists('g:bling_count')   | let g:bling_count = 3     | en
-if !exists('g:bling_time')    | let g:bling_time = 60     | en
+if !exists('g:bling_time')    | let g:bling_time = 40     | en
 
 "if !exists('g:bling_color')   | let g:bling_color = 'red' | en
 
